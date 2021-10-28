@@ -1,8 +1,8 @@
 # PF12
-![Slide60](https://user-images.githubusercontent.com/92925909/138799799-bc021d54-21b6-4911-acbd-85c60de4dd18.jpg)
-![Slide61](https://user-images.githubusercontent.com/92925909/138799803-46e5d811-986d-43bb-a362-56fc7148fa64.jpg)
-![Slide62](https://user-images.githubusercontent.com/92925909/138799804-11bf85c2-47c4-43dc-99bb-309e13dee111.jpg)
-![Slide63](https://user-images.githubusercontent.com/92925909/138799806-60339453-873a-4476-8dcc-164d90370ac2.jpg)
-![Slide64](https://user-images.githubusercontent.com/92925909/138799795-9008bafb-c4bf-4fc1-8adb-6e72c935f8ed.jpg)
+![Slide62](https://user-images.githubusercontent.com/92925909/139174322-8bc0b52e-5869-4957-b92b-d86246d4054e.png)
+![Slide63](https://user-images.githubusercontent.com/92925909/139174325-c58522b9-e0de-4170-ba29-b4cb655bb333.png)
+![Slide64](https://user-images.githubusercontent.com/92925909/139174327-cf1d2fd0-9acd-444a-b694-d1d454f3850d.png)
+![Slide65](https://user-images.githubusercontent.com/92925909/139174330-70d964ef-3445-4b2f-8b1b-fc0956672956.png)
+![Slide66](https://user-images.githubusercontent.com/92925909/139174334-196c7a9a-76dd-4104-9e1c-fb058e84c926.png)
 
 [![Adobe XD 기반 모바일 앱 프로토타이핑](https://img.youtube.com/vi/yhBN0N6tP-I/0.jpg)](https://youtu.be/yhBN0N6tP-I)
